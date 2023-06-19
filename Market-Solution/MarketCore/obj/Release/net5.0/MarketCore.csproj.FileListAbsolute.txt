@@ -1,0 +1,12 @@
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\bin\Release\net5.0\MarketCore.deps.json
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\bin\Release\net5.0\MarketCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\bin\Release\net5.0\MarketCore.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Release\net5.0\MarketCore.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Release\net5.0\MarketCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Release\net5.0\MarketCore.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Release\net5.0\MarketCore.AssemblyInfo.cs
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Release\net5.0\MarketCore.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Release\net5.0\MarketCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Release\net5.0\refint\MarketCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Release\net5.0\MarketCore.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Release\net5.0\ref\MarketCore.dll

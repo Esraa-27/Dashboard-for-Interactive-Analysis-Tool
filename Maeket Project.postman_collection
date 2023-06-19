@@ -1,0 +1,1067 @@
+{
+	"info": {
+		"_postman_id": "29e4e518-7695-46e3-9673-0677d2e24901",
+		"name": "Graduation Project me",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22823710"
+	},
+	"item": [
+		{
+			"name": "Purchases",
+			"item": [
+				{
+					"name": "import excel file",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"contentType": "multipart/form-data",
+									"type": "file",
+									"src": "/F:/GP/Data/Purchases(Final).xlsx"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/upload-excel-file",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"upload-excel-file"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "all-Product",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"companies\": 0,\r\n  \"branches\": 0,\r\n  \"purchases\": \"all\",\r\n  \"month\": \"all\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/all-product",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"all-product"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "all zeros Product",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/all-null-product",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"all-null-product"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "all quantity Product",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"companies\": 10,\r\n  \"branches\": 15,\r\n  \"purchases\": \"all\",\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/all-quantity-product",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"all-quantity-product"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "all-value-product",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"companies\": 10,\r\n  \"branches\": 15,\r\n  \"purchases\": \"all\",\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/all-value-product",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"all-value-product"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "max-price-product",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"companies\": 10,\r\n  \"branches\": 15,\r\n  \"purchases\": \"all\",\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/max-price-product",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"max-price-product"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "total  values of company",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"companies\": 10,\r\n  \"branches\": 15,\r\n  \"purchases\": \"all\",\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/total-value-company",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"total-value-company"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "sum-value",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"companies\": 10,\r\n  \"branches\": 15,\r\n  \"purchases\": \"all\",\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/sum-value",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"sum-value"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "total-quantity",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"companies\": 10,\r\n  \"branches\": 15,\r\n  \"purchases\": \"all\",\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/total-quantity",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"total-quantity"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "max-price",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"companies\": 10,\r\n  \"branches\": 15,\r\n  \"purchases\": \"all\",\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/max-price",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"max-price"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "list of products",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/products",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "list of month",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/months",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"months"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "generate-excel-sheet",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/Purchases/generate-excel-sheet",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Purchases",
+								"generate-excel-sheet"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Login",
+			"item": [
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"esraaabdou27@gmail.com\",\r\n  \"password\": \"Esraaabdou27@\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Login/login",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Login",
+								"login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Sales",
+			"item": [
+				{
+					"name": "upload-excel-file",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/F:/GP/Data/Sales (Final).xlsx"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Sales/upload-excel-file",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Sales",
+								"upload-excel-file"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "all-quantity-product",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "5a10e268-edce-467d-8d7a-f53c503277a5",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"category\": 20,\r\n  \"branch\": 13,\r\n  \"product\": \"all\",\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Sales/all-quantity-product",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Sales",
+								"all-quantity-product"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "all-sales-product",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"category\": 0,\r\n  \"branch\": 13,\r\n  \"product\": \"all\",\r\n  \"month\": 0\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Sales/all-sales-product",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Sales",
+								"all-sales-product"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "all-average-product",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"category\": 20,\r\n  \"branch\": 13,\r\n  \"product\": \"all\",\r\n  \"month\": 12\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Sales/all-average-product",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Sales",
+								"all-average-product"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "all-average-category",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"category\": 0,\r\n  \"branch\": 13,\r\n  \"product\": \"all\",\r\n  \"month\": 12\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Sales/all-average-category",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Sales",
+								"all-average-category"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "list of month",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "524e8902-a0ea-4544-8b18-5392a1cac828",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://asusci.bsite.net/api/Sales/months",
+							"protocol": "https",
+							"host": [
+								"asusci",
+								"bsite",
+								"net"
+							],
+							"path": [
+								"api",
+								"Sales",
+								"months"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "list of products",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/Sales/products",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Sales",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "generate-excel-sheet",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/Sales/generate-excel-sheet",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Sales",
+								"generate-excel-sheet"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Food Cost",
+			"item": [
+				{
+					"name": "upload-excel-file",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/F:/GP/Data/Food Cost (Final).xlsx"
+								}
+							]
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/FoodCost/upload-excel-file",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"FoodCost",
+								"upload-excel-file"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "sum-sales-branch",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"category\": 0,\r\n  \"branch\": 3,\r\n  \"month\": 0\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/FoodCost/sum-sales-branch",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"FoodCost",
+								"sum-sales-branch"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "sum-sales-category",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"category\": 2,\r\n  \"branch\": 2,\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/FoodCost/sum-sales-category",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"FoodCost",
+								"sum-sales-category"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "sum-inventory-category",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"category\": 2,\r\n  \"branch\": 2,\r\n  \"month\": 12\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/FoodCost/sum-inventory-category",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"FoodCost",
+								"sum-inventory-category"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "sum-inventory-branch",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"category\": 2,\r\n  \"branch\": 11,\r\n  \"month\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/FoodCost/sum-inventory-branch",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"FoodCost",
+								"sum-inventory-branch"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "list of monthes",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/FoodCost/monthes",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"FoodCost",
+								"monthes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "generate-excel-sheet",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/FoodCost/generate-excel-sheet",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"FoodCost",
+								"generate-excel-sheet"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "shared",
+			"item": [
+				{
+					"name": "list of branches",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/Values/branches",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Values",
+								"branches"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "list of companyies",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/Values/companies",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Values",
+								"companies"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "list of all categories",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "bb99fe94-2e9c-4844-8bac-2715d6a18caf",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/Values/categories",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Values",
+								"categories"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

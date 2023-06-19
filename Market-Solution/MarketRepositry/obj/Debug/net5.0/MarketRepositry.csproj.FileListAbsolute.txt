@@ -1,0 +1,75 @@
+F:\GP\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.deps.json
+F:\GP\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.dll
+F:\GP\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.pdb
+F:\GP\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketCore.dll
+F:\GP\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketCore.pdb
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.AssemblyReference.cache
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.GeneratedMSBuildEditorConfig.editorconfig
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfoInputs.cache
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfo.cs
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CoreCompileInputs.cache
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CopyComplete
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.dll
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\refint\MarketRepositry.dll
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.pdb
+F:\GP\Market-Solution\MarketRepositry\obj\Debug\net5.0\ref\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.deps.json
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketCore.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.AssemblyReference.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfoInputs.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfo.cs
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CoreCompileInputs.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CopyComplete
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\refint\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\ref\MarketRepositry.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.deps.json
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketCore.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfo.cs
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CopyComplete
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\refint\MarketRepositry.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\ref\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.deps.json
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketRepositry.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\bin\Debug\net5.0\MarketCore.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.AssemblyReference.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfoInputs.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfo.cs
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CoreCompileInputs.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CopyComplete
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\refint\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\MarketRepositry.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketRepositry\obj\Debug\net5.0\ref\MarketRepositry.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\bin\Debug\net5.0\MarketRepositry.deps.json
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\bin\Debug\net5.0\MarketRepositry.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\bin\Debug\net5.0\MarketRepositry.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\bin\Debug\net5.0\MarketCore.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\bin\Debug\net5.0\MarketCore.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.AssemblyReference.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\MarketRepositry.GeneratedMSBuildEditorConfig.editorconfig
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfoInputs.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\MarketRepositry.AssemblyInfo.cs
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CoreCompileInputs.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\MarketRepositry.csproj.CopyComplete
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\MarketRepositry.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\refint\MarketRepositry.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\MarketRepositry.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketRepositry\obj\Debug\net5.0\ref\MarketRepositry.dll

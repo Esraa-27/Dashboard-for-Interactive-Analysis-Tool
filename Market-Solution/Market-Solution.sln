@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketApi", "MarketApi\MarketApi.csproj", "{6FD51C49-5EB2-4BAD-88B2-264585E47100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketCore", "MarketCore\MarketCore.csproj", "{8068E33D-0C63-4AC5-BB87-68885D13AAD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketService", "MarketService\MarketService.csproj", "{208C03F1-547C-4066-B2D9-0D3ACDCFFE5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketRepositry", "MarketRepositry\MarketRepositry.csproj", "{68FC94DA-7E62-46ED-9347-BC2ACEC6066D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FD51C49-5EB2-4BAD-88B2-264585E47100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD51C49-5EB2-4BAD-88B2-264585E47100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD51C49-5EB2-4BAD-88B2-264585E47100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD51C49-5EB2-4BAD-88B2-264585E47100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8068E33D-0C63-4AC5-BB87-68885D13AAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8068E33D-0C63-4AC5-BB87-68885D13AAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8068E33D-0C63-4AC5-BB87-68885D13AAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8068E33D-0C63-4AC5-BB87-68885D13AAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{208C03F1-547C-4066-B2D9-0D3ACDCFFE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208C03F1-547C-4066-B2D9-0D3ACDCFFE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208C03F1-547C-4066-B2D9-0D3ACDCFFE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208C03F1-547C-4066-B2D9-0D3ACDCFFE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FC94DA-7E62-46ED-9347-BC2ACEC6066D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FC94DA-7E62-46ED-9347-BC2ACEC6066D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FC94DA-7E62-46ED-9347-BC2ACEC6066D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FC94DA-7E62-46ED-9347-BC2ACEC6066D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B83D94-5450-43A1-8722-428195F80239}
+	EndGlobalSection
+EndGlobal

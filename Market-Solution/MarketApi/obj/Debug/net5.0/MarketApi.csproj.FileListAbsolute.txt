@@ -1,0 +1,395 @@
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.AssemblyReference.cache
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfoInputs.cache
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfo.cs
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CoreCompileInputs.cache
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cs
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cache
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\appsettings.Development.json
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\appsettings.json
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.exe
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.deps.json
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.json
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.dev.json
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.pdb
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Humanizer.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketCore.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketRepositry.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketService.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketService.pdb
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketCore.pdb
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\MarketRepositry.pdb
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\scopedcss\bundle\MarketApi.styles.css
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Manifest.cache
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Pack.cache
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.MarketApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.build.MarketApi.props
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MarketApi.props
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MarketApi.props
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.RazorTargetAssemblyInfo.cache
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CopyComplete
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.dll
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\refint\MarketApi.dll
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.pdb
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.genruntimeconfig.cache
+F:\GP\Market-Solution\MarketApi\obj\Debug\net5.0\ref\MarketApi.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.Interfaces.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+F:\GP\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\appsettings.json
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.exe
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.deps.json
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.json
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.dev.json
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.Interfaces.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketService.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketService.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketCore.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketRepositry.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.AssemblyReference.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfoInputs.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfo.cs
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CoreCompileInputs.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\scopedcss\bundle\MarketApi.styles.css
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Manifest.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Pack.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.MarketApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.build.MarketApi.props
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MarketApi.props
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MarketApi.props
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.RazorTargetAssemblyInfo.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CopyComplete
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\refint\MarketApi.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.genruntimeconfig.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\ref\MarketApi.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.exe
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.deps.json
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.json
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.dev.json
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.Interfaces.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketRepositry.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketService.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketService.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketCore.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketRepositry.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfo.cs
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\scopedcss\bundle\MarketApi.styles.css
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Manifest.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Pack.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.MarketApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.build.MarketApi.props
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MarketApi.props
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MarketApi.props
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.RazorTargetAssemblyInfo.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CopyComplete
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\refint\MarketApi.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.genruntimeconfig.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\ref\MarketApi.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\appsettings.json
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.exe
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.deps.json
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.json
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.dev.json
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketApi.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.Interfaces.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketRepositry.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketService.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketService.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketCore.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\MarketRepositry.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.AssemblyReference.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfoInputs.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfo.cs
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CoreCompileInputs.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\scopedcss\bundle\MarketApi.styles.css
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Manifest.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Pack.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.MarketApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.build.MarketApi.props
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MarketApi.props
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MarketApi.props
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.RazorTargetAssemblyInfo.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CopyComplete
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\refint\MarketApi.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\MarketApi.genruntimeconfig.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\obj\Debug\net5.0\ref\MarketApi.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ZERO TECH\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ZERO TECH\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ZERO TECH\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ZERO TECH\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ZERO TECH\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.csproj.AssemblyReference.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfoInputs.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.AssemblyInfo.cs
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CoreCompileInputs.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cs
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.MvcApplicationPartsAssemblyInfo.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\refint\MarketApi.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\appsettings.Development.json
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\appsettings.json
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketApi.exe
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketApi.deps.json
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.json
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketApi.runtimeconfig.dev.json
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketApi.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketApi.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\EPPlus.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\EPPlus.Interfaces.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Humanizer.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketCore.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketRepositry.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketService.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketService.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketCore.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\bin\Debug\net5.0\MarketRepositry.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\scopedcss\bundle\MarketApi.styles.css
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Manifest.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\staticwebassets\MarketApi.StaticWebAssets.Pack.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.MarketApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.build.MarketApi.props
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MarketApi.props
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MarketApi.props
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.RazorTargetAssemblyInfo.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.csproj.CopyComplete
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\MarketApi.genruntimeconfig.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketApi\obj\Debug\net5.0\ref\MarketApi.dll

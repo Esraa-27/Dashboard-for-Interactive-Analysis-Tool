@@ -1,0 +1,60 @@
+F:\GP\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.deps.json
+F:\GP\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.dll
+F:\GP\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.pdb
+F:\GP\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.csproj.AssemblyReference.cache
+F:\GP\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\GP\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfoInputs.cache
+F:\GP\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfo.cs
+F:\GP\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.csproj.CoreCompileInputs.cache
+F:\GP\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.dll
+F:\GP\Market-Solution\MarketCore\obj\Debug\net5.0\refint\MarketCore.dll
+F:\GP\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.pdb
+F:\GP\Market-Solution\MarketCore\obj\Debug\net5.0\ref\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.deps.json
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.csproj.AssemblyReference.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfoInputs.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfo.cs
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.csproj.CoreCompileInputs.cache
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\refint\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.pdb
+C:\Users\ZERO TECH\source\repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\ref\MarketCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.deps.json
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfo.cs
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\refint\MarketCore.dll
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.pdb
+C:\Users\Mahmoud\Source\Repos\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\ref\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.deps.json
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\bin\Debug\net5.0\MarketCore.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.csproj.AssemblyReference.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfoInputs.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfo.cs
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.csproj.CoreCompileInputs.cache
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\refint\MarketCore.dll
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\MarketCore.pdb
+C:\Users\ZERO TECH\source\repos\Esraa-27\Market-Repo\Market-Solution\MarketCore\obj\Debug\net5.0\ref\MarketCore.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\obj\Debug\net5.0\MarketCore.csproj.AssemblyReference.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\obj\Debug\net5.0\MarketCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfoInputs.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\obj\Debug\net5.0\MarketCore.AssemblyInfo.cs
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\obj\Debug\net5.0\MarketCore.csproj.CoreCompileInputs.cache
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\obj\Debug\net5.0\MarketCore.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\obj\Debug\net5.0\refint\MarketCore.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\obj\Debug\net5.0\MarketCore.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\bin\Debug\net5.0\MarketCore.deps.json
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\bin\Debug\net5.0\MarketCore.dll
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\bin\Debug\net5.0\MarketCore.pdb
+F:\4 - Semester 2\GP\BackUp\Market-Solution-with login\MarketCore\obj\Debug\net5.0\ref\MarketCore.dll
